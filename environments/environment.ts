@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiURL: "http://eshop-backend-argo.herokuapp.com/api/v1/"
+    apiURL: "https://eshop-backend-argo.herokuapp.com/api/v1/"
 };
 
 /*
